@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajith M</h1>
-<h3 align="center">A passionate College Graduate loving Data Science and Data Analysis and this my EDA on various Datasets and predicting ML models</h3>
+<h3 align="center">A passionate College Graduate loving Data Science and Data Analysis and this my EDA on various Datasets and predicting ML models, The datasets used for all of this EDA can be found on KAGGLE</h3>
 
 - 🌱 I’m currently learning **Data Science and Data Analysis**
 
